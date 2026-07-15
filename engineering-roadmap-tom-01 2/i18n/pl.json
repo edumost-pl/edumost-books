@@ -1,0 +1,28 @@
+{
+  "title": "Engineering Roadmap",
+  "subtitle": "Ścieżka młodego inżyniera",
+  "author": "EduMost Academy",
+  "series": "Engineering Roadmap",
+  "edition": "Tom 1",
+  "volumes": {
+    "tom-01": { "title": "Podstawy inżyniera" }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "Witaj w laboratorium inżynierskim",
+      "subtitle": "Otwarcie laboratorium · Misja dnia"
+    },
+    "lab-01": { "title": "Komputer", "subtitle": "W środku pudełka · Misja dnia" },
+    "lab-02": { "title": "Terminal", "subtitle": "Mów do komputera słowami · Misja dnia" },
+    "lab-03": { "title": "Linux", "subtitle": "Zbuduj dom dla serwera · Misja dnia" },
+    "lab-04": { "title": "Pliki", "subtitle": "Foldery i kopie na serwerze · Misja dnia" },
+    "lab-05": { "title": "Bash", "subtitle": "Nocny inżynier · Misja dnia" },
+    "lab-06": { "title": "Serwer", "subtitle": "Usługa 24/7 · Misja dnia" },
+    "lab-07": { "title": "Sieć", "subtitle": "Mapa domu · Misja dnia" },
+    "lab-08": { "title": "Internet", "subtitle": "Poza routerem · Misja dnia" },
+    "lab-09": {
+      "title": "Pierwszy duży projekt: Minecraft",
+      "subtitle": "🟢 Projekt poziomu 1 · Misja dnia"
+    }
+  }
+}

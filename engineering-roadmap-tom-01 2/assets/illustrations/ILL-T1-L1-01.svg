@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="Цепочка от нажатия клавиши до буквы A на экране">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8f5e9"/>
+      <stop offset="100%" stop-color="#f0f4f8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <rect x="40" y="40" width="720" height="370" fill="none" stroke="#40916c" stroke-width="3" stroke-dasharray="12 8" rx="8"/>
+  <text x="400" y="200" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" fill="#2d6a4f" font-weight="600">EduMost · Placeholder</text>
+  <text x="400" y="240" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" fill="#52796f">ILL-T1-L1-01</text>
+  <text x="400" y="280" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" fill="#6c757d">Цепочка от нажатия клавиши до буквы A на экране</text>
+</svg>
