@@ -1,0 +1,15 @@
+[book]
+id = "engineering-roadmap"
+title = "Engineering Roadmap"
+theme = "edumost-explorer"
+sourceLocale = "ru"
+defaultLocale = "ru"
+supportedLocales = ["ru", "uk", "pl", "en"]
+author = "EduMost Academy"
+series = "Engineering Roadmap"
+edition = "Tom 1"
+
+[[volumes]]
+id = "tom-01"
+path = "tom-01"
+title = "Основы инженера"

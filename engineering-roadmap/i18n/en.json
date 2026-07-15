@@ -1,0 +1,28 @@
+{
+  "title": "Engineering Roadmap",
+  "subtitle": "A young engineer's journey",
+  "author": "EduMost Academy",
+  "series": "Engineering Roadmap",
+  "edition": "Volume 1",
+  "volumes": {
+    "tom-01": { "title": "Engineering Foundations" }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "Welcome to the Engineering Lab",
+      "subtitle": "Lab opening · Mission of the day"
+    },
+    "lab-01": { "title": "Computer", "subtitle": "Inside the box · Mission of the day" },
+    "lab-02": { "title": "Terminal", "subtitle": "Talk to the computer in words · Mission of the day" },
+    "lab-03": { "title": "Linux", "subtitle": "Build a home for the server · Mission of the day" },
+    "lab-04": { "title": "Files", "subtitle": "Folders and copies on the server · Mission of the day" },
+    "lab-05": { "title": "Bash", "subtitle": "The night engineer · Mission of the day" },
+    "lab-06": { "title": "Server", "subtitle": "Service 24/7 · Mission of the day" },
+    "lab-07": { "title": "Network", "subtitle": "Map of the home · Mission of the day" },
+    "lab-08": { "title": "Internet", "subtitle": "Beyond the router · Mission of the day" },
+    "lab-09": {
+      "title": "First big project: Minecraft",
+      "subtitle": "🟢 Level 1 project · Mission of the day"
+    }
+  }
+}
