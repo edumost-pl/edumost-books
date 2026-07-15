@@ -1,0 +1,54 @@
+{
+  "title": "Engineering Roadmap: Robotics",
+  "subtitle": "Level 4 · Robot Builder",
+  "author": "EduMost Academy",
+  "series": "Engineering Roadmap",
+  "edition": "Volume 04",
+  "volumes": {
+    "tom-04": {
+      "title": "Robotics"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "Arduino",
+      "subtitle": "Mission of the day"
+    },
+    "lab-01": {
+      "title": "Servo",
+      "subtitle": "Mission of the day"
+    },
+    "lab-02": {
+      "title": "Ultrasonic",
+      "subtitle": "Mission of the day"
+    },
+    "lab-03": {
+      "title": "Robot",
+      "subtitle": "Mission of the day"
+    },
+    "lab-04": {
+      "title": "Camera",
+      "subtitle": "Mission of the day"
+    },
+    "lab-05": {
+      "title": "Computer Vision",
+      "subtitle": "Mission of the day"
+    },
+    "lab-06": {
+      "title": "OpenCV",
+      "subtitle": "Mission of the day"
+    },
+    "lab-07": {
+      "title": "Pi + Robot",
+      "subtitle": "Mission of the day"
+    },
+    "lab-08": {
+      "title": "Automation",
+      "subtitle": "Mission of the day"
+    },
+    "lab-09": {
+      "title": "Autonomous robot",
+      "subtitle": "Mission of the day"
+    }
+  }
+}

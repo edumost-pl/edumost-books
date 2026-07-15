@@ -1,0 +1,22 @@
+{
+  "id": "engineering-roadmap-tom-01",
+  "title": "Engineering Roadmap: Основы инженера",
+  "subtitle": "Путь юного инженера",
+  "series": "Engineering Roadmap",
+  "seriesId": "engineering-roadmap",
+  "seriesOrder": 1,
+  "edition": "Tom 1",
+  "author": "EduMost Academy",
+  "description": "Том 1 серии Engineering Roadmap: от первого терминала до Minecraft-сервера. 10 лабораторий для юных инженеров 11–14 лет.",
+  "ageMin": 11,
+  "ageMax": 14,
+  "locales": [
+    "ru",
+    "uk",
+    "pl",
+    "en"
+  ],
+  "defaultLocale": "ru",
+  "theme": "edumost-explorer",
+  "cover": "assets/illustrations/ILL-T1-L0-01.svg"
+}

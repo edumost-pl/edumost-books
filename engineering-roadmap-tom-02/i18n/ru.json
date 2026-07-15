@@ -1,0 +1,53 @@
+{
+  "title": "Engineering Roadmap: Электроника и Raspberry Pi",
+  "subtitle": "Уровень 2 · Конструктор",
+  "series": "Engineering Roadmap",
+  "edition": "Том 02",
+  "volumes": {
+    "tom-02": {
+      "title": "Электроника и Raspberry Pi"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "Raspberry Pi",
+      "subtitle": "Миссия дня"
+    },
+    "lab-01": {
+      "title": "GPIO",
+      "subtitle": "Миссия дня"
+    },
+    "lab-02": {
+      "title": "Электричество",
+      "subtitle": "Миссия дня"
+    },
+    "lab-03": {
+      "title": "Breadboard",
+      "subtitle": "Миссия дня"
+    },
+    "lab-04": {
+      "title": "LED",
+      "subtitle": "Миссия дня"
+    },
+    "lab-05": {
+      "title": "Кнопки",
+      "subtitle": "Миссия дня"
+    },
+    "lab-06": {
+      "title": "Датчики",
+      "subtitle": "Миссия дня"
+    },
+    "lab-07": {
+      "title": "Двигатели",
+      "subtitle": "Миссия дня"
+    },
+    "lab-08": {
+      "title": "ESP32",
+      "subtitle": "Миссия дня"
+    },
+    "lab-09": {
+      "title": "Метеостанция",
+      "subtitle": "Миссия дня"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[book]
+id = "engineering-roadmap-tom-04"
+title = "Engineering Roadmap: Робототехника"
+theme = "edumost-explorer"
+sourceLocale = "ru"
+defaultLocale = "ru"
+supportedLocales = ["ru", "uk", "pl", "en"]
+author = "EduMost Academy"
+series = "Engineering Roadmap"
+seriesId = "engineering-roadmap"
+seriesOrder = 4
+edition = "Tom 4"
+
+[[volumes]]
+id = "tom-04"
+path = "tom-04"
+title = "Робототехника"

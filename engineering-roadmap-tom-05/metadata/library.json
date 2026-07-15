@@ -1,0 +1,22 @@
+{
+  "id": "engineering-roadmap-tom-05",
+  "title": "Engineering Roadmap: Инженер будущего",
+  "subtitle": "Уровень 5 · Архитектор технологий",
+  "series": "Engineering Roadmap",
+  "seriesId": "engineering-roadmap",
+  "seriesOrder": 5,
+  "edition": "Tom 5",
+  "author": "EduMost Academy",
+  "description": "Том 5 серии Engineering Roadmap: ИИ, дроны, 3D-печать и финальный capstone. 10 лабораторий для юных инженеров 11–14 лет.",
+  "ageMin": 11,
+  "ageMax": 14,
+  "locales": [
+    "ru",
+    "uk",
+    "pl",
+    "en"
+  ],
+  "defaultLocale": "ru",
+  "theme": "edumost-explorer",
+  "cover": "assets/illustrations/ILL-T5-L0-01.svg"
+}

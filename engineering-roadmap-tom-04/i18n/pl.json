@@ -1,0 +1,54 @@
+{
+  "title": "Engineering Roadmap: Robotyka",
+  "subtitle": "Poziom 4 · Twórca robotów",
+  "author": "EduMost Academy",
+  "series": "Engineering Roadmap",
+  "edition": "Tom 04",
+  "volumes": {
+    "tom-04": {
+      "title": "Robotyka"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "Arduino",
+      "subtitle": "Mission of the day"
+    },
+    "lab-01": {
+      "title": "Serwo",
+      "subtitle": "Mission of the day"
+    },
+    "lab-02": {
+      "title": "Ultradźwięk",
+      "subtitle": "Mission of the day"
+    },
+    "lab-03": {
+      "title": "Robot",
+      "subtitle": "Mission of the day"
+    },
+    "lab-04": {
+      "title": "Kamera",
+      "subtitle": "Mission of the day"
+    },
+    "lab-05": {
+      "title": "Computer Vision",
+      "subtitle": "Mission of the day"
+    },
+    "lab-06": {
+      "title": "OpenCV",
+      "subtitle": "Mission of the day"
+    },
+    "lab-07": {
+      "title": "Pi + Robot",
+      "subtitle": "Mission of the day"
+    },
+    "lab-08": {
+      "title": "Automatyzacja",
+      "subtitle": "Mission of the day"
+    },
+    "lab-09": {
+      "title": "Autonomiczny robot",
+      "subtitle": "Mission of the day"
+    }
+  }
+}

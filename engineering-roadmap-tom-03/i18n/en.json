@@ -1,0 +1,54 @@
+{
+  "title": "Engineering Roadmap: Servers and Networks",
+  "subtitle": "Level 3 · Systems Engineer",
+  "author": "EduMost Academy",
+  "series": "Engineering Roadmap",
+  "edition": "Volume 03",
+  "volumes": {
+    "tom-03": {
+      "title": "Servers and Networks"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "SSH",
+      "subtitle": "Mission of the day"
+    },
+    "lab-01": {
+      "title": "Git",
+      "subtitle": "Mission of the day"
+    },
+    "lab-02": {
+      "title": "Docker",
+      "subtitle": "Mission of the day"
+    },
+    "lab-03": {
+      "title": "NAS",
+      "subtitle": "Mission of the day"
+    },
+    "lab-04": {
+      "title": "Pi-hole",
+      "subtitle": "Mission of the day"
+    },
+    "lab-05": {
+      "title": "VPN",
+      "subtitle": "Mission of the day"
+    },
+    "lab-06": {
+      "title": "Home Assistant",
+      "subtitle": "Mission of the day"
+    },
+    "lab-07": {
+      "title": "DNS",
+      "subtitle": "Mission of the day"
+    },
+    "lab-08": {
+      "title": "Router",
+      "subtitle": "Mission of the day"
+    },
+    "lab-09": {
+      "title": "Infrastructure",
+      "subtitle": "Mission of the day"
+    }
+  }
+}

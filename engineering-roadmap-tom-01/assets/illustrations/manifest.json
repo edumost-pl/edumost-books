@@ -1,0 +1,92 @@
+{
+  "ILL-T1-L0-01": {
+    "file": "ILL-T1-L0-01.svg",
+    "alt": {
+      "ru": "Ребёнок за столом с ноутбуком и тетрадью Moja_Laboratoria",
+      "uk": "Дитина за столом з ноутбуком і зошитом Moja_Laboratoria",
+      "pl": "Dziecko przy biurku z laptopem i zeszytem Moja_Laboratoria",
+      "en": "Child at desk with laptop and Moja_Laboratoria notebook"
+    }
+  },
+  "ILL-T1-L1-01": {
+    "file": "ILL-T1-L1-01.svg",
+    "alt": {
+      "ru": "Цепочка от нажатия клавиши до буквы A на экране",
+      "uk": "Ланцюжок від натискання клавіші до літери A на екрані",
+      "pl": "Łańcuch od naciśnięcia klawisza do litery A na ekranie",
+      "en": "Chain from key press to letter A on screen"
+    }
+  },
+  "ILL-T1-L2-01": {
+    "file": "ILL-T1-L2-01.svg",
+    "alt": {
+      "ru": "Первый терминал с мигающим курсором",
+      "uk": "Перший термінал з мигаючим курсором",
+      "pl": "Pierwszy terminal z migającym kursorem",
+      "en": "First terminal with blinking cursor"
+    }
+  },
+  "ILL-T1-L3-01": {
+    "file": "ILL-T1-L3-01.svg",
+    "alt": {
+      "ru": "Старый ноутбук как сервер в углу комнаты",
+      "uk": "Старий ноутбук як сервер у кутку кімнати",
+      "pl": "Stary laptop jako serwer w kącie pokoju",
+      "en": "Old laptop as server in room corner"
+    }
+  },
+  "ILL-T1-L4-01": {
+    "alt": {
+      "ru": "Папки и файлы на сервере",
+      "uk": "Папки та файли на сервері",
+      "pl": "Foldery i pliki na serwerze",
+      "en": "Folders and files on server"
+    },
+    "file": "ILL-T1-L4-01.svg"
+  },
+  "ILL-T1-L5-01": {
+    "alt": {
+      "ru": "Ночной скрипт копирует файлы",
+      "uk": "Нічний скрипт копіює файли",
+      "pl": "Nocny skrypt kopiuje pliki",
+      "en": "Night script copies files"
+    },
+    "file": "ILL-T1-L5-01.svg"
+  },
+  "ILL-T1-L6-01": {
+    "alt": {
+      "ru": "Сервис работает 24/7",
+      "uk": "Сервіс працює 24/7",
+      "pl": "Usługa działa 24/7",
+      "en": "Service runs 24/7"
+    },
+    "file": "ILL-T1-L6-01.svg"
+  },
+  "ILL-T1-L7-01": {
+    "alt": {
+      "ru": "Карта домашней сети",
+      "uk": "Карта домашньої мережі",
+      "pl": "Mapa sieci domowej",
+      "en": "Home network map"
+    },
+    "file": "ILL-T1-L7-01.svg"
+  },
+  "ILL-T1-L8-01": {
+    "alt": {
+      "ru": "Интернет за пределами дома",
+      "uk": "Інтернет за межами дому",
+      "pl": "Internet poza domem",
+      "en": "Internet beyond home"
+    },
+    "file": "ILL-T1-L8-01.svg"
+  },
+  "ILL-T1-L9-01": {
+    "alt": {
+      "ru": "Minecraft-сервер — первый большой проект",
+      "uk": "Minecraft-сервер — перший великий проєкт",
+      "pl": "Serwer Minecraft — pierwszy duży projekt",
+      "en": "Minecraft server — first big project"
+    },
+    "file": "ILL-T1-L9-01.svg"
+  }
+}

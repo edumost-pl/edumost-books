@@ -1,0 +1,54 @@
+{
+  "title": "Engineering Roadmap: Electronics and Raspberry Pi",
+  "subtitle": "Level 2 · Builder",
+  "author": "EduMost Academy",
+  "series": "Engineering Roadmap",
+  "edition": "Volume 02",
+  "volumes": {
+    "tom-02": {
+      "title": "Electronics and Raspberry Pi"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "Raspberry Pi",
+      "subtitle": "Mission of the day"
+    },
+    "lab-01": {
+      "title": "GPIO",
+      "subtitle": "Mission of the day"
+    },
+    "lab-02": {
+      "title": "Electricity",
+      "subtitle": "Mission of the day"
+    },
+    "lab-03": {
+      "title": "Breadboard",
+      "subtitle": "Mission of the day"
+    },
+    "lab-04": {
+      "title": "LED",
+      "subtitle": "Mission of the day"
+    },
+    "lab-05": {
+      "title": "Buttons",
+      "subtitle": "Mission of the day"
+    },
+    "lab-06": {
+      "title": "Sensors",
+      "subtitle": "Mission of the day"
+    },
+    "lab-07": {
+      "title": "Motors",
+      "subtitle": "Mission of the day"
+    },
+    "lab-08": {
+      "title": "ESP32",
+      "subtitle": "Mission of the day"
+    },
+    "lab-09": {
+      "title": "Weather station",
+      "subtitle": "Mission of the day"
+    }
+  }
+}

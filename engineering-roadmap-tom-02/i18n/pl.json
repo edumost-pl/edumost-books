@@ -1,0 +1,54 @@
+{
+  "title": "Engineering Roadmap: Elektronika i Raspberry Pi",
+  "subtitle": "Poziom 2 · Konstruktor",
+  "author": "EduMost Academy",
+  "series": "Engineering Roadmap",
+  "edition": "Tom 02",
+  "volumes": {
+    "tom-02": {
+      "title": "Elektronika i Raspberry Pi"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "Raspberry Pi",
+      "subtitle": "Mission of the day"
+    },
+    "lab-01": {
+      "title": "GPIO",
+      "subtitle": "Mission of the day"
+    },
+    "lab-02": {
+      "title": "Elektryczność",
+      "subtitle": "Mission of the day"
+    },
+    "lab-03": {
+      "title": "Breadboard",
+      "subtitle": "Mission of the day"
+    },
+    "lab-04": {
+      "title": "LED",
+      "subtitle": "Mission of the day"
+    },
+    "lab-05": {
+      "title": "Przyciski",
+      "subtitle": "Mission of the day"
+    },
+    "lab-06": {
+      "title": "Czujniki",
+      "subtitle": "Mission of the day"
+    },
+    "lab-07": {
+      "title": "Silniki",
+      "subtitle": "Mission of the day"
+    },
+    "lab-08": {
+      "title": "ESP32",
+      "subtitle": "Mission of the day"
+    },
+    "lab-09": {
+      "title": "Stacja pogody",
+      "subtitle": "Mission of the day"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Engineering Roadmap: Inżynier przyszłości",
+  "subtitle": "Poziom 5 · Architekt",
+  "author": "EduMost Academy",
+  "series": "Engineering Roadmap",
+  "edition": "Tom 05",
+  "volumes": {
+    "tom-05": {
+      "title": "Inżynier przyszłości"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "AI",
+      "subtitle": "Mission of the day"
+    },
+    "lab-01": {
+      "title": "Lokalne AI",
+      "subtitle": "Mission of the day"
+    },
+    "lab-02": {
+      "title": "Drony",
+      "subtitle": "Mission of the day"
+    },
+    "lab-03": {
+      "title": "Druk 3D",
+      "subtitle": "Mission of the day"
+    },
+    "lab-04": {
+      "title": "CAD",
+      "subtitle": "Mission of the day"
+    },
+    "lab-05": {
+      "title": "Projektowanie",
+      "subtitle": "Mission of the day"
+    },
+    "lab-06": {
+      "title": "Mechatronika",
+      "subtitle": "Mission of the day"
+    },
+    "lab-07": {
+      "title": "Kosmos",
+      "subtitle": "Mission of the day"
+    },
+    "lab-08": {
+      "title": "Lotnictwo",
+      "subtitle": "Mission of the day"
+    },
+    "lab-09": {
+      "title": "Projekt finałowy",
+      "subtitle": "Mission of the day"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Engineering Roadmap: Серверы и сети",
+  "subtitle": "Уровень 3 · Системный инженер",
+  "series": "Engineering Roadmap",
+  "edition": "Том 03",
+  "volumes": {
+    "tom-03": {
+      "title": "Серверы и сети"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "SSH",
+      "subtitle": "Миссия дня"
+    },
+    "lab-01": {
+      "title": "Git",
+      "subtitle": "Миссия дня"
+    },
+    "lab-02": {
+      "title": "Docker",
+      "subtitle": "Миссия дня"
+    },
+    "lab-03": {
+      "title": "NAS",
+      "subtitle": "Миссия дня"
+    },
+    "lab-04": {
+      "title": "Pi-hole",
+      "subtitle": "Миссия дня"
+    },
+    "lab-05": {
+      "title": "VPN",
+      "subtitle": "Миссия дня"
+    },
+    "lab-06": {
+      "title": "Home Assistant",
+      "subtitle": "Миссия дня"
+    },
+    "lab-07": {
+      "title": "DNS",
+      "subtitle": "Миссия дня"
+    },
+    "lab-08": {
+      "title": "Роутер",
+      "subtitle": "Миссия дня"
+    },
+    "lab-09": {
+      "title": "Инфраструктура",
+      "subtitle": "Миссия дня"
+    }
+  }
+}

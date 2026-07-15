@@ -1,0 +1,54 @@
+{
+  "title": "Engineering Roadmap: Engineer of the Future",
+  "subtitle": "Level 5 · Architect",
+  "author": "EduMost Academy",
+  "series": "Engineering Roadmap",
+  "edition": "Volume 05",
+  "volumes": {
+    "tom-05": {
+      "title": "Engineer of the Future"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "AI",
+      "subtitle": "Mission of the day"
+    },
+    "lab-01": {
+      "title": "Local AI",
+      "subtitle": "Mission of the day"
+    },
+    "lab-02": {
+      "title": "Drones",
+      "subtitle": "Mission of the day"
+    },
+    "lab-03": {
+      "title": "3D printing",
+      "subtitle": "Mission of the day"
+    },
+    "lab-04": {
+      "title": "CAD",
+      "subtitle": "Mission of the day"
+    },
+    "lab-05": {
+      "title": "System design",
+      "subtitle": "Mission of the day"
+    },
+    "lab-06": {
+      "title": "Mechatronics",
+      "subtitle": "Mission of the day"
+    },
+    "lab-07": {
+      "title": "Space",
+      "subtitle": "Mission of the day"
+    },
+    "lab-08": {
+      "title": "Aviation",
+      "subtitle": "Mission of the day"
+    },
+    "lab-09": {
+      "title": "Final project",
+      "subtitle": "Mission of the day"
+    }
+  }
+}

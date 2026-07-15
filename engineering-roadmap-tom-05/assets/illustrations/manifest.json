@@ -1,0 +1,92 @@
+{
+  "ILL-T5-L0-01": {
+    "alt": {
+      "ru": "Tom 05 Lab 0",
+      "uk": "Tom 05 Lab 0",
+      "pl": "Tom 05 Lab 0",
+      "en": "Tom 05 Lab 0"
+    },
+    "file": "ILL-T5-L0-01.svg"
+  },
+  "ILL-T5-L1-01": {
+    "alt": {
+      "ru": "Tom 05 Lab 1",
+      "uk": "Tom 05 Lab 1",
+      "pl": "Tom 05 Lab 1",
+      "en": "Tom 05 Lab 1"
+    },
+    "file": "ILL-T5-L1-01.svg"
+  },
+  "ILL-T5-L2-01": {
+    "alt": {
+      "ru": "Tom 05 Lab 2",
+      "uk": "Tom 05 Lab 2",
+      "pl": "Tom 05 Lab 2",
+      "en": "Tom 05 Lab 2"
+    },
+    "file": "ILL-T5-L2-01.svg"
+  },
+  "ILL-T5-L3-01": {
+    "alt": {
+      "ru": "Tom 05 Lab 3",
+      "uk": "Tom 05 Lab 3",
+      "pl": "Tom 05 Lab 3",
+      "en": "Tom 05 Lab 3"
+    },
+    "file": "ILL-T5-L3-01.svg"
+  },
+  "ILL-T5-L4-01": {
+    "alt": {
+      "ru": "Tom 05 Lab 4",
+      "uk": "Tom 05 Lab 4",
+      "pl": "Tom 05 Lab 4",
+      "en": "Tom 05 Lab 4"
+    },
+    "file": "ILL-T5-L4-01.svg"
+  },
+  "ILL-T5-L5-01": {
+    "alt": {
+      "ru": "Tom 05 Lab 5",
+      "uk": "Tom 05 Lab 5",
+      "pl": "Tom 05 Lab 5",
+      "en": "Tom 05 Lab 5"
+    },
+    "file": "ILL-T5-L5-01.svg"
+  },
+  "ILL-T5-L6-01": {
+    "alt": {
+      "ru": "Tom 05 Lab 6",
+      "uk": "Tom 05 Lab 6",
+      "pl": "Tom 05 Lab 6",
+      "en": "Tom 05 Lab 6"
+    },
+    "file": "ILL-T5-L6-01.svg"
+  },
+  "ILL-T5-L7-01": {
+    "alt": {
+      "ru": "Tom 05 Lab 7",
+      "uk": "Tom 05 Lab 7",
+      "pl": "Tom 05 Lab 7",
+      "en": "Tom 05 Lab 7"
+    },
+    "file": "ILL-T5-L7-01.svg"
+  },
+  "ILL-T5-L8-01": {
+    "alt": {
+      "ru": "Tom 05 Lab 8",
+      "uk": "Tom 05 Lab 8",
+      "pl": "Tom 05 Lab 8",
+      "en": "Tom 05 Lab 8"
+    },
+    "file": "ILL-T5-L8-01.svg"
+  },
+  "ILL-T5-L9-01": {
+    "alt": {
+      "ru": "Tom 05 Lab 9",
+      "uk": "Tom 05 Lab 9",
+      "pl": "Tom 05 Lab 9",
+      "en": "Tom 05 Lab 9"
+    },
+    "file": "ILL-T5-L9-01.svg"
+  }
+}

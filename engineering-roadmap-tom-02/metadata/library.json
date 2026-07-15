@@ -1,0 +1,22 @@
+{
+  "id": "engineering-roadmap-tom-02",
+  "title": "Engineering Roadmap: Электроника и Raspberry Pi",
+  "subtitle": "Уровень 2 · Конструктор",
+  "series": "Engineering Roadmap",
+  "seriesId": "engineering-roadmap",
+  "seriesOrder": 2,
+  "edition": "Tom 2",
+  "author": "EduMost Academy",
+  "description": "Том 2 серии Engineering Roadmap: GPIO, LED, датчики и домашняя метеостанция. 10 лабораторий для юных инженеров 11–14 лет.",
+  "ageMin": 11,
+  "ageMax": 14,
+  "locales": [
+    "ru",
+    "uk",
+    "pl",
+    "en"
+  ],
+  "defaultLocale": "ru",
+  "theme": "edumost-explorer",
+  "cover": "assets/illustrations/ILL-T2-L0-01.svg"
+}

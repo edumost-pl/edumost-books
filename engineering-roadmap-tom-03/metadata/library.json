@@ -1,0 +1,22 @@
+{
+  "id": "engineering-roadmap-tom-03",
+  "title": "Engineering Roadmap: Серверы и сети",
+  "subtitle": "Уровень 3 · Системный инженер",
+  "series": "Engineering Roadmap",
+  "seriesId": "engineering-roadmap",
+  "seriesOrder": 3,
+  "edition": "Tom 3",
+  "author": "EduMost Academy",
+  "description": "Том 3 серии Engineering Roadmap: SSH, Git, Docker, NAS и домашняя инфраструктура. 10 лабораторий для юных инженеров 11–14 лет.",
+  "ageMin": 11,
+  "ageMax": 14,
+  "locales": [
+    "ru",
+    "uk",
+    "pl",
+    "en"
+  ],
+  "defaultLocale": "ru",
+  "theme": "edumost-explorer",
+  "cover": "assets/illustrations/ILL-T3-L0-01.svg"
+}

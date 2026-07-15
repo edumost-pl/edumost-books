@@ -1,0 +1,17 @@
+[book]
+id = "engineering-roadmap-tom-03"
+title = "Engineering Roadmap: Серверы и сети"
+theme = "edumost-explorer"
+sourceLocale = "ru"
+defaultLocale = "ru"
+supportedLocales = ["ru", "uk", "pl", "en"]
+author = "EduMost Academy"
+series = "Engineering Roadmap"
+seriesId = "engineering-roadmap"
+seriesOrder = 3
+edition = "Tom 3"
+
+[[volumes]]
+id = "tom-03"
+path = "tom-03"
+title = "Серверы и сети"

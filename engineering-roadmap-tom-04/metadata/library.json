@@ -1,0 +1,22 @@
+{
+  "id": "engineering-roadmap-tom-04",
+  "title": "Engineering Roadmap: Робототехника",
+  "subtitle": "Уровень 4 · Создатель роботов",
+  "series": "Engineering Roadmap",
+  "seriesId": "engineering-roadmap",
+  "seriesOrder": 4,
+  "edition": "Tom 4",
+  "author": "EduMost Academy",
+  "description": "Том 4 серии Engineering Roadmap: Arduino, Computer Vision и автономный робот. 10 лабораторий для юных инженеров 11–14 лет.",
+  "ageMin": 11,
+  "ageMax": 14,
+  "locales": [
+    "ru",
+    "uk",
+    "pl",
+    "en"
+  ],
+  "defaultLocale": "ru",
+  "theme": "edumost-explorer",
+  "cover": "assets/illustrations/ILL-T4-L0-01.svg"
+}

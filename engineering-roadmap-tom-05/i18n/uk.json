@@ -1,0 +1,54 @@
+{
+  "title": "Engineering Roadmap: Інженер майбутнього",
+  "subtitle": "Рівень 5 · Архітектор",
+  "author": "EduMost Academy",
+  "series": "Engineering Roadmap",
+  "edition": "Том 05",
+  "volumes": {
+    "tom-05": {
+      "title": "Інженер майбутнього"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "ШІ",
+      "subtitle": "Mission of the day"
+    },
+    "lab-01": {
+      "title": "Локальний ШІ",
+      "subtitle": "Mission of the day"
+    },
+    "lab-02": {
+      "title": "Drony",
+      "subtitle": "Mission of the day"
+    },
+    "lab-03": {
+      "title": "3D-дruk",
+      "subtitle": "Mission of the day"
+    },
+    "lab-04": {
+      "title": "CAD",
+      "subtitle": "Mission of the day"
+    },
+    "lab-05": {
+      "title": "Projektowanie",
+      "subtitle": "Mission of the day"
+    },
+    "lab-06": {
+      "title": "Mechatronika",
+      "subtitle": "Mission of the day"
+    },
+    "lab-07": {
+      "title": "Kosmos",
+      "subtitle": "Mission of the day"
+    },
+    "lab-08": {
+      "title": "Aviacja",
+      "subtitle": "Mission of the day"
+    },
+    "lab-09": {
+      "title": "Finałowy projekt",
+      "subtitle": "Mission of the day"
+    }
+  }
+}

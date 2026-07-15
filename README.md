@@ -1,45 +1,77 @@
 # EduMost Books
 
-Репозиторий **контента книг** EduMost Publishing Platform.
+Репозиторий **контента книг** EduMost · серия **Engineering Roadmap** (5 самостоятельных книг · 50 лабораторий).
 
-Каждая папка — самодостаточная книга по [EduMost Book Specification](https://github.com/edumost-pl/edumost-book-specification).
+Каждая книга — **независимый пакет**: собственный `book.toml`, контент, assets, i18n и release ZIP.
 
-| Книга | Статус | Том |
-|-------|--------|-----|
-| [engineering-roadmap/](engineering-roadmap/) | active | Tom 1 — 10 labs |
+## Книги
 
-## Принцип
+| Книга | seriesOrder | Лаборатории | Исходники | Release ZIP |
+|-------|-------------|-------------|-----------|-------------|
+| [engineering-roadmap-tom-01/](engineering-roadmap-tom-01/) | 1 | 10 | ✅ | [tom-01.zip](releases/engineering-roadmap-tom-01.zip) |
+| [engineering-roadmap-tom-02/](engineering-roadmap-tom-02/) | 2 | 10 | ✅ | [tom-02.zip](releases/engineering-roadmap-tom-02.zip) |
+| [engineering-roadmap-tom-03/](engineering-roadmap-tom-03/) | 3 | 10 | ✅ | [tom-03.zip](releases/engineering-roadmap-tom-03.zip) |
+| [engineering-roadmap-tom-04/](engineering-roadmap-tom-04/) | 4 | 10 | ✅ | [tom-04.zip](releases/engineering-roadmap-tom-04.zip) |
+| [engineering-roadmap-tom-05/](engineering-roadmap-tom-05/) | 5 | 10 | ✅ | [tom-05.zip](releases/engineering-roadmap-tom-05.zip) |
 
-> Автор создаёт книгу. Publisher собирает Web · PDF · EPUB.
+```toml
+series = "Engineering Roadmap"
+seriesId = "engineering-roadmap"
+seriesOrder = 1…5
+```
 
-Этот репозиторий **не содержит код** Publisher или Reader.
-
-## Структура книги
+## Структура одной книги
 
 ```
-{book-id}/
+engineering-roadmap-tom-0N/
 ├── book.toml
 ├── metadata/library.json
-├── i18n/
 ├── assets/illustrations/
-└── {locale}/{volume}/content/*.md
+├── i18n/
+├── ru/tom-0N/content/    # 10 лабораторий
+├── README.md
+└── CHANGELOG.md
 ```
 
-См. спецификацию: `edumost-pl/edumost-book-specification`.
+## Release ZIP (Reader)
 
-## Сборка
+Публикационный артефакт для **EduMost Reader** — zip **исходной папки книги** (`book.toml` в корне архива):
 
-Сборка выполняется **EduMost Publisher** (пока — EduMost-Book-Engine как эталон):
+```
+releases/
+├── engineering-roadmap-tom-01.zip
+├── …
+└── engineering-roadmap-tom-05.zip
+```
+
+Создание:
 
 ```bash
-# Эталон (старый путь, до миграции Publisher)
-cd ../EduMost-Book-Engine
-pnpm build:book
-
-# Будущий путь (после миграции Publisher)
-edumost build ../EduMost-Books/engineering-roadmap
+./scripts/make-releases.sh
+# или одной книги:
+./scripts/make-releases.sh engineering-roadmap-tom-01
 ```
 
-## Версионирование
+**Импорт в Reader:** ссылка на ZIP в GitHub или файл с диска.
 
-Git tags: `engineering-roadmap-v1.0.0`
+Пример ссылки:
+
+```
+https://github.com/edumost-pl/edumost-books/blob/main/releases/engineering-roadmap-tom-01.zip
+```
+
+## Сборка (Publisher)
+
+```bash
+cd ../EduMost-Publisher
+npx tsx packages/cli/src/index.ts doctor ../EduMost-Books/engineering-roadmap-tom-01
+npx tsx packages/cli/src/index.ts build ../EduMost-Books/engineering-roadmap-tom-01
+```
+
+## Авторский источник
+
+`../ENGINEERING_ROADMAP/` — канонический текст лабораторий и [WORKFLOW_ROLI.md](../ENGINEERING_ROADMAP/WORKFLOW_ROLI.md).
+
+---
+
+*EduMost Engineering Academy · Engineering Roadmap v1.0*

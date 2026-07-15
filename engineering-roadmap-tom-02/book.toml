@@ -1,0 +1,17 @@
+[book]
+id = "engineering-roadmap-tom-02"
+title = "Engineering Roadmap: Электроника и Raspberry Pi"
+theme = "edumost-explorer"
+sourceLocale = "ru"
+defaultLocale = "ru"
+supportedLocales = ["ru", "uk", "pl", "en"]
+author = "EduMost Academy"
+series = "Engineering Roadmap"
+seriesId = "engineering-roadmap"
+seriesOrder = 2
+edition = "Tom 2"
+
+[[volumes]]
+id = "tom-02"
+path = "tom-02"
+title = "Электроника и Raspberry Pi"

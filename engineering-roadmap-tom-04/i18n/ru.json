@@ -1,0 +1,53 @@
+{
+  "title": "Engineering Roadmap: Робототехника",
+  "subtitle": "Уровень 4 · Создатель роботов",
+  "series": "Engineering Roadmap",
+  "edition": "Том 04",
+  "volumes": {
+    "tom-04": {
+      "title": "Робототехника"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "Arduino",
+      "subtitle": "Миссия дня"
+    },
+    "lab-01": {
+      "title": "Servo",
+      "subtitle": "Миссия дня"
+    },
+    "lab-02": {
+      "title": "Ультразвук",
+      "subtitle": "Миссия дня"
+    },
+    "lab-03": {
+      "title": "Робот",
+      "subtitle": "Миссия дня"
+    },
+    "lab-04": {
+      "title": "Камера",
+      "subtitle": "Миссия дня"
+    },
+    "lab-05": {
+      "title": "Computer Vision",
+      "subtitle": "Миссия дня"
+    },
+    "lab-06": {
+      "title": "OpenCV",
+      "subtitle": "Миссия дня"
+    },
+    "lab-07": {
+      "title": "Pi + Robot",
+      "subtitle": "Миссия дня"
+    },
+    "lab-08": {
+      "title": "Автоматизация",
+      "subtitle": "Миссия дня"
+    },
+    "lab-09": {
+      "title": "Автономный робот",
+      "subtitle": "Миссия дня"
+    }
+  }
+}

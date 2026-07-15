@@ -1,0 +1,54 @@
+{
+  "title": "Engineering Roadmap: Електроніка та Raspberry Pi",
+  "subtitle": "Рівень 2 · Конструктор",
+  "author": "EduMost Academy",
+  "series": "Engineering Roadmap",
+  "edition": "Том 02",
+  "volumes": {
+    "tom-02": {
+      "title": "Електроніка та Raspberry Pi"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "Raspberry Pi",
+      "subtitle": "Mission of the day"
+    },
+    "lab-01": {
+      "title": "GPIO",
+      "subtitle": "Mission of the day"
+    },
+    "lab-02": {
+      "title": "Електрика",
+      "subtitle": "Mission of the day"
+    },
+    "lab-03": {
+      "title": "Breadboard",
+      "subtitle": "Mission of the day"
+    },
+    "lab-04": {
+      "title": "LED",
+      "subtitle": "Mission of the day"
+    },
+    "lab-05": {
+      "title": "Кнопки",
+      "subtitle": "Mission of the day"
+    },
+    "lab-06": {
+      "title": "Датчики",
+      "subtitle": "Mission of the day"
+    },
+    "lab-07": {
+      "title": "Двигуни",
+      "subtitle": "Mission of the day"
+    },
+    "lab-08": {
+      "title": "ESP32",
+      "subtitle": "Mission of the day"
+    },
+    "lab-09": {
+      "title": "Метеостанція",
+      "subtitle": "Mission of the day"
+    }
+  }
+}

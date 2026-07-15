@@ -1,0 +1,53 @@
+{
+  "title": "Engineering Roadmap: Инженер будущего",
+  "subtitle": "Уровень 5 · Архитектор",
+  "series": "Engineering Roadmap",
+  "edition": "Том 05",
+  "volumes": {
+    "tom-05": {
+      "title": "Инженер будущего"
+    }
+  },
+  "pages": {
+    "lab-00": {
+      "title": "ИИ",
+      "subtitle": "Миссия дня"
+    },
+    "lab-01": {
+      "title": "Локальный ИИ",
+      "subtitle": "Миссия дня"
+    },
+    "lab-02": {
+      "title": "Дроны",
+      "subtitle": "Миссия дня"
+    },
+    "lab-03": {
+      "title": "3D-печать",
+      "subtitle": "Миссия дня"
+    },
+    "lab-04": {
+      "title": "CAD",
+      "subtitle": "Миссия дня"
+    },
+    "lab-05": {
+      "title": "Проектирование",
+      "subtitle": "Миссия дня"
+    },
+    "lab-06": {
+      "title": "Мехатроника",
+      "subtitle": "Миссия дня"
+    },
+    "lab-07": {
+      "title": "Космос",
+      "subtitle": "Миссия дня"
+    },
+    "lab-08": {
+      "title": "Авиация",
+      "subtitle": "Миссия дня"
+    },
+    "lab-09": {
+      "title": "Финальный проект",
+      "subtitle": "Миссия дня"
+    }
+  }
+}
