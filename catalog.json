@@ -1,0 +1,83 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-07-15",
+  "repository": "edumost-pl/edumost-books",
+  "books": [
+    {
+      "id": "engineering-roadmap-tom-01",
+      "title": "Engineering Roadmap: Основы инженера",
+      "subtitle": "Путь юного инженера",
+      "series": "Engineering Roadmap",
+      "seriesId": "engineering-roadmap",
+      "seriesOrder": 1,
+      "edition": "Tom 1",
+      "author": "EduMost Academy",
+      "description": "Том 1: от первого терминала до Minecraft-сервера. 10 лабораторий.",
+      "releaseUrl": "https://github.com/edumost-pl/edumost-books/blob/main/releases/engineering-roadmap-tom-01.zip",
+      "locales": ["ru", "uk", "pl", "en"],
+      "defaultLocale": "ru",
+      "theme": "edumost-explorer",
+      "cover": "assets/illustrations/ILL-T1-L0-01.svg"
+    },
+    {
+      "id": "engineering-roadmap-tom-02",
+      "title": "Engineering Roadmap: Электроника и Raspberry Pi",
+      "subtitle": "Уровень 2 · Конструктор",
+      "series": "Engineering Roadmap",
+      "seriesId": "engineering-roadmap",
+      "seriesOrder": 2,
+      "edition": "Tom 2",
+      "author": "EduMost Academy",
+      "description": "Том 2: GPIO, LED, датчики и домашняя метеостанция.",
+      "releaseUrl": "https://github.com/edumost-pl/edumost-books/blob/main/releases/engineering-roadmap-tom-02.zip",
+      "locales": ["ru", "uk", "pl", "en"],
+      "defaultLocale": "ru",
+      "theme": "edumost-explorer"
+    },
+    {
+      "id": "engineering-roadmap-tom-03",
+      "title": "Engineering Roadmap: Серверы и сети",
+      "subtitle": "Уровень 3 · Системный инженер",
+      "series": "Engineering Roadmap",
+      "seriesId": "engineering-roadmap",
+      "seriesOrder": 3,
+      "edition": "Tom 3",
+      "author": "EduMost Academy",
+      "description": "Том 3: SSH, Git, Docker, NAS и домашняя инфраструктура.",
+      "releaseUrl": "https://github.com/edumost-pl/edumost-books/blob/main/releases/engineering-roadmap-tom-03.zip",
+      "locales": ["ru", "uk", "pl", "en"],
+      "defaultLocale": "ru",
+      "theme": "edumost-explorer"
+    },
+    {
+      "id": "engineering-roadmap-tom-04",
+      "title": "Engineering Roadmap: Робототехника",
+      "subtitle": "Уровень 4 · Робототехник",
+      "series": "Engineering Roadmap",
+      "seriesId": "engineering-roadmap",
+      "seriesOrder": 4,
+      "edition": "Tom 4",
+      "author": "EduMost Academy",
+      "description": "Том 4: Arduino, Computer Vision и автономный робот.",
+      "releaseUrl": "https://github.com/edumost-pl/edumost-books/blob/main/releases/engineering-roadmap-tom-04.zip",
+      "locales": ["ru", "uk", "pl", "en"],
+      "defaultLocale": "ru",
+      "theme": "edumost-explorer"
+    },
+    {
+      "id": "engineering-roadmap-tom-05",
+      "title": "Engineering Roadmap: Инженер будущего",
+      "subtitle": "Уровень 5 · Инженер будущего",
+      "series": "Engineering Roadmap",
+      "seriesId": "engineering-roadmap",
+      "seriesOrder": 5,
+      "edition": "Tom 5",
+      "author": "EduMost Academy",
+      "description": "Том 5: ИИ, дроны, 3D-печать и финальный capstone.",
+      "releaseUrl": "https://github.com/edumost-pl/edumost-books/blob/main/releases/engineering-roadmap-tom-05.zip",
+      "locales": ["ru", "uk", "pl", "en"],
+      "defaultLocale": "ru",
+      "theme": "edumost-explorer"
+    }
+  ]
+}

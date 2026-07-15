@@ -44,6 +44,17 @@ releases/
 └── engineering-roadmap-tom-05.zip
 ```
 
+## Облачный каталог
+
+[`catalog.json`](catalog.json) — список опубликованных книг для Reader (следующий этап: UI каталога).
+
+```json
+{
+  "version": "1.0",
+  "books": [{ "id": "...", "releaseUrl": "https://github.com/.../releases/....zip" }]
+}
+```
+
 Создание:
 
 ```bash
