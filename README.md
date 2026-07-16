@@ -26,12 +26,25 @@ seriesOrder = 1…5
 engineering-roadmap-tom-0N/
 ├── book.toml
 ├── metadata/library.json
-├── assets/illustrations/
+├── assets/illustrations/   # ILL-*.webp|png|svg (для Reader)
+├── prompts/                # EduMost Illustration Prompt (не показывается читателю)
 ├── i18n/
-├── ru/tom-0N/content/    # 10 лабораторий
+├── ru/tom-0N/content/      # лаборатории с :::illustration
 ├── README.md
 └── CHANGELOG.md
 ```
+
+В Markdown книги:
+
+```markdown
+## 📷 Иллюстрация
+
+:::illustration
+ILL-T1-L0-01
+:::
+```
+
+Промпт художника — только в `prompts/ILL-T1-L0-01.md`.
 
 ## Release ZIP (Reader)
 

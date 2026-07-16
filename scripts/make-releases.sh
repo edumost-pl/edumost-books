@@ -16,7 +16,11 @@ pack_one() {
     return 1
   fi
   rm -f "$out"
-  (cd "$src" && zip -r -q "$out" . -x "*.DS_Store" -x "__MACOSX/*")
+  (cd "$src" && zip -r -q "$out" . \
+    -x "*.DS_Store" \
+    -x "__MACOSX/*" \
+    -x "prompts/*" \
+    -x "prompts/**")
   echo "Created $out ($(du -h "$out" | cut -f1))"
 }
 
